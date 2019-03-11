@@ -1,0 +1,13 @@
+
+C:\Users\Yerko\Desktop\L0>doskey/History
+cd C:\Users\Yerko\Desktop
+git clone https://github.com/yiolivares/L0.git
+git cd L0
+cd L0
+git add *
+git commit -m "laboratorio 0 comentario"
+git push
+git pull
+doskey/History
+
+C:\Users\Yerko\Desktop\L0>
